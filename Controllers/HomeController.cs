@@ -23,7 +23,7 @@ public class HomeController : Controller
         return View();
     }
 // new changes
-// new changes 2
+// new changes 3
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
