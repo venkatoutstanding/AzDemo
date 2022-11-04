@@ -27,6 +27,7 @@ public class HomeController : Controller
 // new changes 4
 // new changes 5
 // new changes 6
+// new changes 7
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
